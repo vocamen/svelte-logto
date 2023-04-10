@@ -4,7 +4,7 @@ Thank you! 🤩
 
 This is an active project of svelte/sveltekit using [logto](https://github.com/logto-io/logto).
 
-The goal here is to have something like Meteor used to provide to developers in 2016: a full fledged and easy auth solution that just work.
+The goal here is to have something like Meteor used to provide to developers in 2016: a full fledged and easy auth solution that just works.
 
 The first advantage is that logto is external to your app, so if you get some brute force on logging, it's external to your application's database.
 There are other advantages of logto when compared to auth0 in the long run. :smile:
