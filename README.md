@@ -22,3 +22,6 @@ You can check the vanilla tutorial from logto that was used in this svelte SPA a
 
 ## Future!
 It will also be available for sveltekit. I just have a little time, so if you're willing to make a PR on this project, feel free to do it, you're welcome!
+
+# EDIT 2026
+I stopped using sveltekit since v5.
